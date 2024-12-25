@@ -43,8 +43,7 @@ This repository contains three networking projects created using Cisco Packet Tr
 - Fragmentation.pkt: Packet Tracer file for the Fragmentation project.
 - InterVLAN_Routing.pkt: Packet Tracer file for the Inter-VLAN Routing project.
 - Enterprise_Network.pkt: Packet Tracer file for the Enterprise Network project.
-- Instructions.pdf: Step-by-step guides for each project.
-- Configurations.txt: Device configurations for reference.
+
 
 ## Requirements
 - Cisco Packet Tracer (Version 8.2 or later recommended).
